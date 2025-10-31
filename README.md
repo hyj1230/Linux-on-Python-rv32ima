@@ -12,8 +12,10 @@ pypy single.py
 
 You can also run the equivalent multi-file version of the code.
 ```sh
-python single.py
+python multiple_src/main.py
 ```
 ```sh
-pypy single.py
+pypy multiple_src/main.py
 ```
+
+
